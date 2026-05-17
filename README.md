@@ -82,19 +82,6 @@
 </div>
 
 ---
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juvaidAhmad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juvaidAhmad&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juvaidAhmad&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 # 🏆 Achievements
@@ -106,15 +93,6 @@
 🏅 Delivered scalable applications within strict deadlines  
 
 ---
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juvaidAhmad&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
 ---
 
 # 🌐 Connect With Me
