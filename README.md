@@ -1,28 +1,30 @@
 <div align="center">
 
-# 🚀 Juvaid Ahmad
+# Hi 👋 I'm Juvaid Ahmad
 
-### Full Stack Developer • MERN & MEAN Stack Specialist • AI Integration Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;React+%7C+Angular+%7C+Node.js;Building+Scalable+Web+Applications;AI+Powered+Solutions+Developer" />
+### Full Stack Developer | MERN & MEAN Stack | Building Scalable & AI-Powered Applications
 
 <br/>
 
-<p align="center">
-  <a href="mailto:juvaidahmad4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-juvaidahmad4%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Angular+%7C+Node.js+Developer;REST+API+%26+Real-Time+Systems;AI+Integration+Enthusiast;Building+Scalable+Applications" alt="Typing SVG" />
 
-  <a href="https://www.linkedin.com/in/juvaid-ahmad-927a18215/">
-    <img src="https://img.shields.io/badge/LinkedIn-Juvaid%20Ahmad-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+<br/><br/>
 
-  <a href="https://github.com/juvaidAhmad">
-    <img src="https://img.shields.io/github/followers/juvaidAhmad?label=Followers&style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<a href="mailto:juvaidahmad4@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=juvaidAhmad&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<a href="https://www.linkedin.com/in/juvaid-ahmad-927a18215/">
+  <img src="https://img.shields.io/badge/LinkedIn-Juvaid_Ahmad-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/juvaidAhmad">
+  <img src="https://img.shields.io/github/followers/juvaidAhmad?label=GitHub&style=flat-square&logo=github"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=juvaidAhmad&label=Profile+Views&color=3B82F6&style=flat-square" alt="profile views"/>
 
 </div>
 
