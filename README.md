@@ -30,19 +30,7 @@
 
 # 💫 About Me
 
-```js
-const juvaid = {
-    role: "Full Stack Developer",
-    experience: "3+ Years",
-    location: "India",
-    techStack: ["React", "Angular", "Node.js", "MongoDB"],
-    currentFocus: "Scalable Web Apps & AI Integration",
-    learning: ["System Design", "Cloud Architecture"],
-    availableForWork: true
-};
-```
-
-💻 Full Stack Developer with experience building scalable web & mobile applications using modern JavaScript technologies.
+💻 Full Stack Developer with 3 year of experience building scalable web & mobile applications using modern JavaScript technologies.
 
 ⚡ Passionate about:
 - Building production-ready applications
