@@ -1,116 +1,154 @@
-<h1 align="center">Hi 👋, I'm Juvaid Ahmad</h1>
-<h3 align="center">Full Stack Developer | MERN & MEAN Stack Developer | AI Integration Enthusiast</h3>
+<div align="center">
+
+# 🚀 Juvaid Ahmad
+
+### Full Stack Developer • MERN & MEAN Stack Specialist • AI Integration Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;React+%7C+Angular+%7C+Node.js;Building+Scalable+Web+Applications;AI+Powered+Solutions+Developer" />
+
+<br/>
 
 <p align="center">
+  <a href="mailto:juvaidahmad4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-juvaidahmad4%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/juvaid-ahmad-927a18215/">
+    <img src="https://img.shields.io/badge/LinkedIn-Juvaid%20Ahmad-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
   <a href="https://github.com/juvaidAhmad">
-    <img src="https://komarev.com/ghpvc/?username=juvaidAhmad&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://img.shields.io/github/followers/juvaidAhmad?label=Followers&style=for-the-badge&logo=github"/>
   </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=juvaidAhmad&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
-## 🚀 About Me
-
-💻 Full Stack Developer with 3+ years of experience building scalable web and mobile applications.
-
-⚡ Skilled in:
-- React.js
-- Angular
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- JWT Authentication
-- Socket.io
-- AI Integration
-
-📍 Based in India  
-📧 Email: juvaidahmad4@gmail.com
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
+
+```js
+const juvaid = {
+    role: "Full Stack Developer",
+    experience: "3+ Years",
+    location: "India",
+    techStack: ["React", "Angular", "Node.js", "MongoDB"],
+    currentFocus: "Scalable Web Apps & AI Integration",
+    learning: ["System Design", "Cloud Architecture"],
+    availableForWork: true
+};
+```
+
+💻 Full Stack Developer with experience building scalable web & mobile applications using modern JavaScript technologies.
+
+⚡ Passionate about:
+- Building production-ready applications
+- REST API architecture
+- Real-time systems with Socket.io
+- AI-powered applications
+- Performance optimization
+- Clean & scalable backend systems
+
+🔥 Experienced in improving backend performance, reducing latency, and delivering user-focused solutions.
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,tailwind,bootstrap" />
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,jenkins,vscode" />
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🧠 SoulPath – AI Wellness App
-- AI-powered emotional wellness platform
-- Mood tracking & journaling
-- AI-generated insights & affirmations
-- Image emotion analysis feature
+<div align="center">
 
-### 📱 Truniform NFC Tag Platform
-- NFC authentication system
-- Real-time chat using Socket.io
-- Location-based matching system
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🧠 **SoulPath** | AI-powered wellness & emotional analysis platform | React, Node.js, MongoDB, AI |
+| 📱 **Truniform NFC Platform** | NFC authentication & real-time communication system | React, Node.js, Socket.io |
+| 💸 **Tip App** | Digital tipping platform with secure payments | Angular, Node.js, MongoDB |
+| 🎵 **Music Competition Platform** | Battle system with live voting & leaderboard | React, Node.js |
+| 🚗 **Drivo** | Car configuration & booking platform | Angular, Node.js |
+| 🛒 **eCommerce Product Management** | Complete product & order management system | MERN Stack |
 
-### 💸 Tip App – Digital Tipping Platform
-- Secure payment integration
-- Transaction validation system
-- Authentication & authorization
-
-### 🎵 Music Competition Platform
-- Battle & voting system
-- Dynamic leaderboard
-- Real-time engagement features
-
-### 🚗 Drivo – Car Configuration Platform
-- Vehicle customization module
-- Booking & order management workflow
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juvaidAhmad&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juvaidAhmad&layout=compact&theme=tokyonight" alt="languages" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juvaidAhmad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juvaidAhmad&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juvaidAhmad&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 Achievements
 
-<p align="left">
-<a href="https://www.linkedin.com/in/juvaid-ahmad-927a18215/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+🏅 Developed multiple production-ready full-stack applications  
+🏅 Improved backend performance & reduced API latency  
+🏅 Built secure authentication & authorization systems  
+🏅 Integrated payment gateways & real-time communication systems  
+🏅 Delivered scalable applications within strict deadlines  
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juvaidAhmad&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/juvaid-ahmad-927a18215/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:juvaidahmad4@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
+  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-red?style=for-the-badge&logo=gmail"/>
 </a>
-</p>
+
+<a href="https://github.com/juvaidAhmad">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-I enjoy building real-time applications, AI-powered systems, and solving complex backend problems 🚀
+### ⭐ “Building scalable applications with clean architecture and impactful user experiences.”
+
+</div>
